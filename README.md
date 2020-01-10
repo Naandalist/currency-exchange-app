@@ -9,7 +9,7 @@ using the Foreign Exchange Rates API.
 - native-base
 - react-native-easy-grid
 
-## Aplication Structure
+## Application Structure
 
 - `index.js` - Entry point of our aplication
 
