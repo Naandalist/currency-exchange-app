@@ -26,10 +26,13 @@ using the Foreign Exchange Rates API.
 ## Screenshots
 
 
-<img src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-1_ubhk7g.jpg" width="200">
-<img src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda_r4vlkv.jpg" width="200">
-<img src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-2_fzgocj.jpg" width="200">
 
+<div align='center'>
+<img title="pict-1" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-1_ubhk7g.jpg" width='400'>
+<img title="pict-2" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda_r4vlkv.jpg" width='400'>
+
+<img title="pict-3" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-2_fzgocj.jpg" width='400'>
+</div>
 ---
 
 ## thank you
