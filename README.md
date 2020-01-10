@@ -27,7 +27,7 @@ using the Foreign Exchange Rates API.
 
 
 
-<div align='center'>
+<div align='left'>
 <img title="pict-1" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-1_ubhk7g.jpg" width='200'>
 <img title="pict-2" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda_r4vlkv.jpg" width='200'>
 
