@@ -32,7 +32,7 @@ using the Foreign Exchange Rates API.
 <img title="pict-2" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda_r4vlkv.jpg" width='200'>
 
 <img title="pict-3" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-2_fzgocj.jpg" width='200'>
-<img title="pict-4" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578638443/screenshoots/nanda-2_fzgocj.jpg" width='200'>
+<img title="pict-4" src="https://res.cloudinary.com/naandalistcloud/image/upload/v1578639278/screenshoots/nanda-3_jrun92.jpg" width='200'>
 </div>
 ---
 
